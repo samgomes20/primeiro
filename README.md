@@ -17,6 +17,7 @@
    <title>Document</title>
 </head>
 <body>
+   <h1>teste</h1>
   <div id ="ab"onclick="clicar()" onmouseenter="voltar()"onmouseout="sair()"> interaja</div> 
   <script>
    var ab= window.document.getElementById("ab")
